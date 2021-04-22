@@ -1,6 +1,7 @@
-# MERN Marketplace with blind people put into consideration
+# E-Commerce Platform and Web Application; the entry point for Visually Impaired Users![Uploading image.png…]()
+using MERN Technology
 
-An online marketplace application with seller accounts, product search and suggestions, shopping cart, order management, payment processing with Stripe, and live auction with Socket.io  for the visually impaired people aka blind(lol)- developed using React, Node, Express and MongoDB. 
+An online e-commerce application with seller accounts, product search and suggestions, shopping cart, order management, payment processing with Stripe for the visually impaired people - developed using React, Node, Express and MongoDB. 
 
 
 
