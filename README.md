@@ -10,7 +10,7 @@ An e-commerce application with seller accounts, product search and suggestions, 
 3. MongoDB (4.2.0)
 4. Stripe account with test data
 
-####  How to run this code by Quadri to the client
+####  How to run this code
 1. Make sure MongoDB sever is running on your system 
 2. Clone this repository
 3. Update config/config.js with your test values for Stripe API keys and Stripe Connect Client ID 
