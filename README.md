@@ -1,7 +1,6 @@
 # E-Commerce Platform and Web Application; the entry point for Visually Impaired Users 
-...using MERN Technology
 
-An online e-commerce application with seller accounts, product search and suggestions, shopping cart, order management, payment processing with Stripe for the visually impaired people - developed using React, Node, Express and MongoDB. 
+An e-commerce application with seller accounts, product search and suggestions, shopping cart, order management, for the visually impaired people - developed using React, Node, Express and MongoDB. 
 
 
 
