@@ -1,8 +1,8 @@
 Arguments: 
-  /home/quadri/.nvm/versions/node/v12.16.2/bin/node /home/quadri/.nvm/versions/node/v12.16.2/bin/yarn start:dev
+  /home/lek/.nvm/versions/node/v12.16.2/bin/node /home/lek/.nvm/versions/node/v12.16.2/bin/yarn start:dev
 
 PATH: 
-  /home/quadri/Android/platform-tools:/home/quadri/Android/tools:/home/quadri/.deno/bin:/home/quadri/.deno/bin:/home/quadri/.local/bin:/home/quadri/Android/platform-tools:/home/quadri/Android/tools:/home/quadri/.deno/bin:/home/quadri/.nvm/versions/node/v12.16.2/bin:/home/quadri/.deno/bin:/home/quadri/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/quadri/bin:/bin:/usr/local/go/bin:/home/quadri/bin:/bin:/home/quadri/development/flutter_linux_1.17.3-stable/flutter/bin:/usr/local/go/bin:/home/quadri/development/flutter_linux_1.17.3-stable/flutter/bin
+  /home/lek/Android/platform-tools:/home/lek/Android/tools:/home/lek/.deno/bin:/home/lek/.deno/bin:/home/lek/.local/bin:/home/lek/Android/platform-tools:/home/lek/Android/tools:/home/lek/.deno/bin:/home/lek/.nvm/versions/node/v12.16.2/bin:/home/lek/.deno/bin:/home/lek/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/lek/bin:/bin:/usr/local/go/bin:/home/lek/bin:/bin:/home/lek/development/flutter_linux_1.17.3-stable/flutter/bin:/usr/local/go/bin:/home/lek/development/flutter_linux_1.17.3-stable/flutter/bin
 
 Yarn version: 
   1.22.10
@@ -11,21 +11,21 @@ Node version:
   12.16.2
 
 Platform: 
-  linux x64
+  mac
 
 Trace: 
-  SyntaxError: /home/quadri/Desktop/projects/Full-Stack-React-Projects-Second-Edition/Chapter09/mern-marketplace-bidding/package.json: Unexpected token g in JSON at position 1346
+  SyntaxError: /home/lek/Desktop/projects/Full-Stack-React-Projects-Second-Edition/Chapter09/mern-marketplace-bidding/package.json: Unexpected token g in JSON at position 1346
       at JSON.parse (<anonymous>)
-      at /home/quadri/.nvm/versions/node/v12.16.2/lib/node_modules/yarn/lib/cli.js:1625:59
+      at /home/lek/.nvm/versions/node/v12.16.2/lib/node_modules/yarn/lib/cli.js:1625:59
       at Generator.next (<anonymous>)
-      at step (/home/quadri/.nvm/versions/node/v12.16.2/lib/node_modules/yarn/lib/cli.js:310:30)
-      at /home/quadri/.nvm/versions/node/v12.16.2/lib/node_modules/yarn/lib/cli.js:321:13
+      at step (/home/lek/.nvm/versions/node/v12.16.2/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /home/lek/.nvm/versions/node/v12.16.2/lib/node_modules/yarn/lib/cli.js:321:13
 
 npm manifest: 
   {
     "name": "visual-impaired-ecommerce",
     "version": "2.0.0",
-    "description": "A market place for visually impaired people",
+    "description": "An ecommerce web application for visually impaired people",
     "author": "Leke",
     "license": "MIT",
     "keywords": [
